@@ -5,7 +5,7 @@ public class HelloSample {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello World!!!!!");
 		System.out.println("Have a nice day!");
-
+		System.out.println("Thank you!");
 	}
 
 }
